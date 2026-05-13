@@ -1,2 +1,3 @@
 # wishlist
-pass-protected journa, cart, bucket list and expense manager.
+
+pass-protected journal, cart, bucket list and expense manager.
